@@ -12,7 +12,7 @@
 ### 📊 GitHub Stats
 
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com?user=amalpk531&theme=github-dark&hide_border=true" height="155" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amal-0x&theme=github-dark&hide_border=true" height="155" />
 
 </div>
 
